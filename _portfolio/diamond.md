@@ -3,10 +3,11 @@ title: "Diamond Price Prediction 💎"
 excerpt: "Developed an XGBoost model with R^2 Score of 0.9812       
 
 
-
-
 <br/><img src='/images/image-500x300.jpg'>"
 collection: portfolio
+# date: 2024-04-13
+order: 3
+
 ---
 
 In this project I:

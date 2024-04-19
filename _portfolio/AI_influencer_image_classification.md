@@ -2,6 +2,9 @@
 title: "AI influencers image classification 📷"
 excerpt: "Developed a CNN model with Accuracy Score of 0.9844<br/><img src='/images/AI_influencers.jpg'>"
 collection: portfolio
+# date: 2024-04-15
+order: 2
+
 ---
 
 ## Overview
